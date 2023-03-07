@@ -5,90 +5,94 @@ draft: false
 title: Project
 uid: 66994040-0ff9-4255-84e5-5fd30444913b
 ---
-Papers for final project:  
-1\. Inductive proof Majority is Stablest  
-https://arxiv.org/abs/1211.1001
+The final project in the course will involve reading a research-level paper and either summarizing it or giving a short presentation, depending on the amount of students that will take the course for credit. This may include pointing out to related open research directions and making some progress along them.
 
-2\. AND Testing   
-https://arxiv.org/abs/1911.00159
+#### Papers for final project
 
-3\. Hypercontractivity on the symmetric group  
-https://arxiv.org/abs/2009.05503
+  
+1\. Inductive proof Majority is Stablest   
+[https://arxiv.org/abs/1211.1001](https://arxiv.org/abs/1211.1001)
 
-4\. Gaussian Noise Sensitivity and Fourier Tails  
-https://www.cs.cmu.edu/~odonnell/papers/gaussian-noise-sensitivity.pdf
+2\. AND Testing    
+[https://arxiv.org/abs/1911.00159](https://arxiv.org/abs/1911.00159)
 
-5\. Gaussian Bounds for Noise Correlation of Functions  
-https://arxiv.org/abs/math/0703683
+3\. Hypercontractivity on the symmetric group   
+[https://arxiv.org/abs/2009.05503](https://arxiv.org/abs/2009.05503)
 
-6\. Testing Juntas  
-http://www.cs.cmu.edu/~eblais/papers/TestingJuntas.pdf
+4\. Gaussian Noise Sensitivity and Fourier Tails   
+[https://www.cs.cmu.edu/~odonnell/papers/gaussian-noise-sensitivity.pdf](https://www.cs.cmu.edu/~odonnell/papers/gaussian-noise-sensitivity.pdf)
 
-7\. Degree vs. Approximate Degree and Quantum Implications of Huang's Sensitivity Theorem  
-https://arxiv.org/abs/2010.12629
+5\. Gaussian Bounds for Noise Correlation of Functions   
+[https://arxiv.org/abs/math/0703683](https://arxiv.org/abs/math/0703683)
 
-8\. Polynomial bounds for decoupling, with applications  
-https://arxiv.org/abs/1512.01603
+6\. Testing Juntas   
+[http://www.cs.cmu.edu/~eblais/papers/TestingJuntas.pdf](http://www.cs.cmu.edu/~eblais/papers/TestingJuntas.pdf)
 
-9\. Local Chernoff   
-https://arxiv.org/abs/1710.07429
+7\. Degree vs. Approximate Degree and Quantum Implications of Huang's Sensitivity Theorem   
+[https://arxiv.org/abs/2010.12629](https://arxiv.org/abs/2010.12629)
 
-10\. Towards a Proof of the Fourier--Entropy Conjecture?  
-https://arxiv.org/abs/1911.10579
+8\. Polynomial bounds for decoupling, with applications   
+[https://arxiv.org/abs/1512.01603](https://arxiv.org/abs/1512.01603)
 
-11\. Quadratic Goldreich-Levin Theorems  
-https://arxiv.org/abs/1105.4372
+9\. Local Chernoff    
+[https://arxiv.org/abs/1710.07429](https://arxiv.org/abs/1710.07429)
 
-12\. Reed-Muller Codes Achieve Capacity on Erasure Channels  
-https://arxiv.org/abs/1601.04689
+10\. Towards a Proof of the Fourier--Entropy Conjecture?   
+[https://arxiv.org/abs/1911.10579](https://arxiv.org/abs/1911.10579)
 
-13\. Noise sensitivity on the p-biased hypercube  
-https://conferences.computer.org/focs/2019/pdfs/FOCS2019-7pBwCpNH4Mz2L4MJWVl6Xp/4QPo5sWQ0kFcZrHcxCjJXM/GjVkOqAeRYhdid2jcvmvm.pdf
+11\. Quadratic Goldreich-Levin Theorems   
+[https://arxiv.org/abs/1105.4372](https://arxiv.org/abs/1105.4372)
 
-14\. XOR Lemmas for Resilient Functions Against Polynomials  
-https://eccc.weizmann.ac.il/report/2019/145/
+12\. Reed-Muller Codes Achieve Capacity on Erasure Channels   
+[https://arxiv.org/abs/1601.04689](https://arxiv.org/abs/1601.04689)
 
-15\. Decision list compression by mild random restrictions  
-https://arxiv.org/abs/1909.10658
+13\. Noise sensitivity on the p-biased hypercube   
+[https://conferences.computer.org/focs/2019/pdfs/FOCS2019-7pBwCpNH4Mz2L4MJWVl6Xp/4QPo5sWQ0kFcZrHcxCjJXM/GjVkOqAeRYhdid2jcvmvm.pdf](https://conferences.computer.org/focs/2019/pdfs/FOCS2019-7pBwCpNH4Mz2L4MJWVl6Xp/4QPo5sWQ0kFcZrHcxCjJXM/GjVkOqAeRYhdid2jcvmvm.pdf)
 
-16\. Biasing Boolean Functions and Collective Coin-Flipping Protocols over Arbitrary Product Distributions  
-https://arxiv.org/abs/1902.07426
+14\. XOR Lemmas for Resilient Functions Against Polynomials   
+[https://eccc.weizmann.ac.il/report/2019/145/](https://eccc.weizmann.ac.il/report/2019/145/)
 
-17\. On the structure of subsets of the discrete cube with small edge boundary  
-https://arxiv.org/abs/1612.06680
+15\. Decision list compression by mild random restrictions   
+[https://arxiv.org/abs/1909.10658](https://arxiv.org/abs/1909.10658)
 
-18\. On the Fourier tails of bounded functions over the discrete cube  
-https://www.cs.cmu.edu/~odonnell/papers/bounded-tails.pdf
+16\. Biasing Boolean Functions and Collective Coin-Flipping Protocols over Arbitrary Product Distributions   
+[https://arxiv.org/abs/1902.07426](https://arxiv.org/abs/1902.07426)
 
-19\. A Hypercontractive Inequality for Matrix-Valued Functions with Applications to Quantum Computing and LDCs  
-https://arxiv.org/abs/0705.3806
+17\. On the structure of subsets of the discrete cube with small edge boundary   
+[https://arxiv.org/abs/1612.06680](https://arxiv.org/abs/1612.06680)
 
-20\. Reverse hypercontractivity and applications  
-http://www.cs.cmu.edu/~odonnell/papers/nicd.pdf
+18\. On the Fourier tails of bounded functions over the discrete cube   
+[https://www.cs.cmu.edu/~odonnell/papers/bounded-tails.pdf](https://www.cs.cmu.edu/~odonnell/papers/bounded-tails.pdf)
 
-21\. Decision trees and influences   
-http://www.cs.cmu.edu/~odonnell/papers/dt-influences.pdf
+19\. A Hypercontractive Inequality for Matrix-Valued Functions with Applications to Quantum Computing and LDCs   
+[https://arxiv.org/abs/0705.3806](https://arxiv.org/abs/0705.3806)
 
-22\. Fourier entropy for classes of functions   
-https://www.cs.cmu.edu/~jswright/papers/fei.pdf
+20\. Reverse hypercontractivity and applications   
+[http://www.cs.cmu.edu/~odonnell/papers/nicd.pdf](http://www.cs.cmu.edu/~odonnell/papers/nicd.pdf)
 
-23\. Group mixing  
-http://www.ccs.neu.edu/home/viola/papers/group-mix.pdf
+21\. Decision trees and influences    
+[http://www.cs.cmu.edu/~odonnell/papers/dt-influences.pdf](http://www.cs.cmu.edu/~odonnell/papers/dt-influences.pdf)
 
-24\. Pseudorandom Generators for Read-Once Branching Programs, in any Order  
-https://arxiv.org/abs/1808.06265
+22\. Fourier entropy for classes of functions    
+[https://www.cs.cmu.edu/~jswright/papers/fei.pdf](https://www.cs.cmu.edu/~jswright/papers/fei.pdf)
 
-25\. Fooling Gaussian PTFs via Local Hyperconcentration  
-https://arxiv.org/abs/2103.07809
+23\. Group mixing   
+[http://www.ccs.neu.edu/home/viola/papers/group-mix.pdf](http://www.ccs.neu.edu/home/viola/papers/group-mix.pdf)
 
-26\. The Correct Exponent for the Gotsman-Linial Conjecture  
-https://arxiv.org/abs/1210.1283
+24\. Pseudorandom Generators for Read-Once Branching Programs, in any Order   
+[https://arxiv.org/abs/1808.06265](https://arxiv.org/abs/1808.06265)
 
-27\. Improved lower bounds for embeddings into L1  
-https://www.cs.huji.ac.il/~yrabani/Papers/KrauthgamerR-SODA06-proc.pdf
+25\. Fooling Gaussian PTFs via Local Hyperconcentration   
+[https://arxiv.org/abs/2103.07809](https://arxiv.org/abs/2103.07809)
 
-28\. Concentration on the Boolean hypercube via pathwise stochastic analysis  
-https://arxiv.org/abs/1909.12067
+26\. The Correct Exponent for the Gotsman-Linial Conjecture   
+[https://arxiv.org/abs/1210.1283](https://arxiv.org/abs/1210.1283)
 
-29\. Second-order bounds on correlations between increasing families  
-https://arxiv.org/abs/1912.11641
+27\. Improved lower bounds for embeddings into L1   
+[https://www.cs.huji.ac.il/~yrabani/Papers/KrauthgamerR-SODA06-proc.pdf](https://www.cs.huji.ac.il/~yrabani/Papers/KrauthgamerR-SODA06-proc.pdf)
+
+28\. Concentration on the Boolean hypercube via pathwise stochastic analysis   
+[https://arxiv.org/abs/1909.12067](https://arxiv.org/abs/1909.12067)
+
+29\. Second-order bounds on correlations between increasing families   
+[https://arxiv.org/abs/1912.11641](https://arxiv.org/abs/1912.11641)
