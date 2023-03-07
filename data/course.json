@@ -1,0 +1,36 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "251baca5-923c-4d04-83db-d151ac02f501"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "topics-in-combinatorics-analysis-of-boolean-functions"
+  },
+  "course_title": "Topics in Combinatorics: Analysis of Boolean Functions",
+  "course_description": "We will talk about Fourier analysis of Boolean functions, which is a useful tool in theoretical computer science, combinaorics and more. We will start with basic concepts, such as influences, noise sensitivity, and hypercontractivitiy and some basic results in the area.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.218",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "topics-in-combinatorics-analysis-of-boolean-functions"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "d59bd08c-0b33-42d9-94af-cf0223e8ed2d",
+  "site_short_id": "18-218-spring-2021"
+}
