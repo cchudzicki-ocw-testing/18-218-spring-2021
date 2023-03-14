@@ -5,7 +5,7 @@ draft: false
 title: Lecture Notes
 uid: 84750320-60d0-49f9-9d42-e2c1b879cff3
 ---
-18.218 S2021 Lecture 1: Introduction (PDF)
+18.218 S2021 Lecture 1: Course Overview and the Basic Set-up (PDF)
 
 18.218 S2021 Lecture 2: The BLR Lineairty Test and Random Restrictions (PDF)
 
