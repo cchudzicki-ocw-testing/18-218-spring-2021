@@ -36,11 +36,11 @@ Most of the course will be based on a book by Ryan O'Donnell, which is available
 Similar courses have been given in:
 
 - [*Analysis of Boolean Functions*](https://www.avishaytal.org/cs294-analysis-of-boolean-functions) online course by Avishay Tal, Berkeley 
--  [Technion Links to an external site](https://yuvalfilmus.cs.technion.ac.il/courses/?crid=615)  **\\\\\\\\\\\\\<- Link doesn't work**
+-  [Technion Links to an external site](https://yuvalfilmus.cs.technion.ac.il/courses/?crid=615)  **\\\\\\\\\\\\\\\<- Link doesn't work**
 -  [*Analysis of Boolean Functions*](http://www.cs.cmu.edu/~odonnell/aobf12/) online course by Ryan O'Donnell, Carnegie Mellon
 
 #### Requirements and Grading
 
-The final grade in the course will be composed of the grades in the problem sets given throughout the semester (50%), and a final project (50%).  
+The final grade in the course will be composed of the grades in the problem sets given throughout the semester (50%) and a final project (50%).  
 
 The final project in the course will involve reading a research-level paper and either summarizing it or giving a short presentation, depending on the amount of students that will take the course for credit. This may include pointing out to related open research directions and making some progress along them.
