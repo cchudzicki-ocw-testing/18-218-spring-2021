@@ -23,8 +23,7 @@ Depending on time, we will also discuss applications in fields such as hardness 
 
 - **Fundamentals of discrete Fourier analysis**. We will begin the course by presenting basic definitions and notions, such as the Fourier decomposition and influences of variables. Throughout the course, we will present basic tools and results in the area, such as the hypercontractive inequality, the KKL theorem, Junta theorems by Friedgut and Bourgain, sharp thresholds, and the invariance principle.
 -  **Applications of Fourier analysis in various areas in TCS.** We will discuss several applications of Fourier analysis in areas such as property testing and learning theory.
-- **Applications of Fourier analysis in Hardness of Approximation**. We will briefly discuss a prominent outstanding conjecture in theoretical computer science known as the Unique-Games Conjecture.     
-    We will use some basic results from Fourier analysis to show several consequences of this conjecture, such as the (conditional) optimality of the Goemans-Williamson algorithm for Max-Cut, and (conditional) hardness of the Vertex-Cover problem.
+- **Applications of Fourier analysis in Hardness of Approximation**. We will briefly discuss a prominent outstanding conjecture in theoretical computer science known as the Unique-Games Conjecture.  We will use some basic results from Fourier analysis to show several consequences of this conjecture, such as the (conditional) optimality of the Goemans-Williamson algorithm for Max-Cut, and (conditional) hardness of the Vertex-Cover problem.
 - **Applications of Fourier analysis in Extremal Combinatorics**. Extremal Combinatorics is an area, which roughly speaking asks how large a collection of specific objects can be if it satisfies a certain constraint. For example, how large can a collection of subsets of \[n\] be provided any two intersect non-trivially? We will see how results in analysis play an important role in giving detailed answers to some of these questions.
 - **Advanced Topics.** Towards the end of the course we will discuss more advanced topics, which are advances in the area achieved only recently. These includes the resolution of the sensitivity conjecture, an extension of the hypercontractive inequality referred to in the literature as “global hypercontractivity”, and the Fourier entropy conjecture.
 
@@ -35,7 +34,7 @@ Most of the course will be based on a book by Ryan O'Donnell, which is available
 Similar courses have been given in:
 
 - [*Analysis of Boolean Functions*](https://www.avishaytal.org/cs294-analysis-of-boolean-functions) online course by Avishay Tal, Berkeley 
--  [Technion Links to an external site](https://yuvalfilmus.cs.technion.ac.il/courses/?crid=615)  **\\\\\\\<- Link doesn't work**
+-  [Technion Links to an external site](https://yuvalfilmus.cs.technion.ac.il/courses/?crid=615)  **\\\\\\\\\<- Link doesn't work**
 -  [*Analysis of Boolean Functions*](http://www.cs.cmu.edu/~odonnell/aobf12/) online course by Ryan O'Donnell, Carnegie Mellon
 
 #### Requirements and Grading
