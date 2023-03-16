@@ -19,7 +19,7 @@ The problem sets will often contain problems of normal difficulty, as well as so
 
 *Submission*
 
-(1) Solution to problem sets are to be typed in LATEX and submitted as a PDF file. Please name your file as ps#\_Lastname\_Firstname.pdf, and remember to include your name in each file. 
+(1) Solution to problem sets are to be typed in LATEX and submitted as a PDF file. 
 
 (2) The submission deadline for each problem set will be mentioned in the problem set itself. Late submission will result in penalized score of 20% reduction per day. That is, a submission late in 2 days that is graded x points will actually be given 0.6 x points.
 
