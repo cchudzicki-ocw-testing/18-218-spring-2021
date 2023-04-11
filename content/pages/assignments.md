@@ -5,7 +5,7 @@ draft: false
 title: Assignments
 uid: 919359ed-8beb-4ad7-b226-e1d76f42b1bb
 ---
-There will be 5 problem sets during the course, 
+There will be 5 problem sets during the course.
 
 ## Starred and Non-starred Problems
 
@@ -13,15 +13,15 @@ The problem sets will often contain problems of normal difficulty, as well as so
 
 ## Collaboration
 
-(1) You are highly encouraged to think about and solve the problems by your own. However, discussing the problems is allowed within reason (i.e. not just sharing your solutions). In any case of collaboration, please mention in your submission the names of people that you have collaborated with, individually for each problem. 
-
-(2) You may not look up solutions to homework problems online or offline. 
+1. You are highly encouraged to think about and solve the problems by your own. However, discussing the problems is allowed within reason (i.e. not just sharing your solutions). In any case of collaboration, please mention in your submission the names of people that you have collaborated with, individually for each problem. 
+2. You may not look up solutions to homework problems online or offline. 
 
 ## Submission
 
-(1) Solution to problem sets are to be typed in LATEX and submitted as a PDF file. 
+1. Solution to problem sets are to be typed in LATEX and submitted as a PDF file. 
+2. The submission deadline for each problem set will be mentioned in the problem set itself. Late submission will result in penalized score of 20% reduction per day. That is, a submission late in 2 days that is graded x points will actually be given 0.6 x points.
 
-(2) The submission deadline for each problem set will be mentioned in the problem set itself. Late submission will result in penalized score of 20% reduction per day. That is, a submission late in 2 days that is graded x points will actually be given 0.6 x points.
+## Problem Sets
 
 {{% resource_link "c98957b0-a8fe-4781-8e59-62f253604223" "Problem Set 1 (PDF)" %}}
 
