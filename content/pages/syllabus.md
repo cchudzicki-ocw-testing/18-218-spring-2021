@@ -29,7 +29,7 @@ Depending on time, we will also discuss applications in fields such as hardness 
 
 ## Textbook and Readings
 
-Most of the course will be based on a book by Ryan O'Donnell, which is available to purchase but also has a [free online version (PDF)](https://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)    
+Most of the course will be based on a book by Ryan O'Donnell, which is available to purchase but also has a [free online version (PDF - 3.5 MB)](https://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)    
 
            O'Donnell, Ryan. *Analysis of Boolean Functions*. Cambridge University Press, New York, NY, 2014. ISBN: ‎9781107038325. 
 
