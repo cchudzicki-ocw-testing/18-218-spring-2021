@@ -36,7 +36,7 @@ Most of the course will be based on a book by Ryan O'Donnell, which is available
 Similar courses have been given in:
 
 - [*Analysis of Boolean Functions*](https://www.avishaytal.org/cs294-analysis-of-boolean-functions) online course by Avishay Tal, Berkeley 
--  [Technion Links to an external site](https://yuvalfilmus.cs.technion.ac.il/courses/?crid=615)  
+-  [Technion Links to an external site](https://yuvalfilmus.cs.technion.ac.il/courses/?crid=615) Boolean Function Analysis course by Yuval Filmus, Technion 
 -  [*Analysis of Boolean Functions*](http://www.cs.cmu.edu/~odonnell/aobf12/) online course by Ryan O'Donnell, Carnegie Mellon
 
 ## Requirements and Grading
