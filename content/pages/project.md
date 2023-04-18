@@ -27,7 +27,7 @@ The final project in the course will involve reading a research-level paper and 
 16. [Biasing Boolean Functions and Collective Coin-Flipping Protocols over Arbitrary Product Distributions](https://arxiv.org/abs/1902.07426)   
 17. [On the structure of subsets of the discrete cube with small edge boundary](https://arxiv.org/abs/1612.06680)   
 18. [On the Fourier tails of bounded functions over the discrete cube](https://www.cs.cmu.edu/~odonnell/papers/bounded-tails.pdf)   
-19. [A Hypercontractive Inequality for Matrix-Valued Functions with Applications to Quantum Computing and LDC](https://arxiv.org/abs/0705.3806)s   
+19. [A Hypercontractive Inequality for Matrix-Valued Functions with Applications to Quantum Computing and LDCs](https://arxiv.org/abs/0705.3806)  
 20. [Reverse hypercontractivity and applications](http://www.cs.cmu.edu/~odonnell/papers/nicd.pdf)   
 21. [Decision trees and influences](http://www.cs.cmu.edu/~odonnell/papers/dt-influences.pdf)    
 22. [Fourier entropy for classes of functions](https://www.cs.cmu.edu/~jswright/papers/fei.pdf)    
