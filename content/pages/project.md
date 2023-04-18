@@ -5,7 +5,7 @@ draft: false
 title: Project
 uid: 66994040-0ff9-4255-84e5-5fd30444913b
 ---
-The final project in the course will involve reading a research-level paper and either summarizing it or giving a short presentation, depending on the amount of students that will take the course for credit. This may include pointing out to related open research directions and making some progress along them.
+The final project in the course will involve reading a research-level paper and either summarizing it or giving a short presentation, depending on the amount of students that will take the course for credit. This may include linking out to related open research directions and making some progress along them.
 
 ## Papers for Final Project
 
