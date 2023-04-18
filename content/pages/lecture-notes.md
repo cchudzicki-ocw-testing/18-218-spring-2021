@@ -5,7 +5,7 @@ draft: false
 title: Lecture Notes
 uid: 84750320-60d0-49f9-9d42-e2c1b879cff3
 ---
-{{% resource_link "d308f0d3-fae6-4750-ab16-d1d99d62e412" "Lecture 1: Course Overview and the Basic Set-up (PDF)" %}}
+{{% resource_link "d308f0d3-fae6-4750-ab16-d1d99d62e412" "Lecture 1: Course Overview and the Basic Set-Up (PDF)" %}}
 
 {{% resource_link "c9b19ff3-27d8-4b54-b1c2-4282c3538a09" "Lecture 2: The BLR Lineairty Test and Random Restrictions (PDF)" %}}
 
