@@ -22,7 +22,7 @@
     "website": "topics-in-combinatorics-analysis-of-boolean-functions"
   },
   "course_title": "Topics in Combinatorics: Analysis of Boolean Functions",
-  "course_description": "In this course, we will mostly be studying \u00a0Fourier analysis of Boolean functions, which is a useful tool in theoretical computer science, combinatorics and more. We will start with basic concepts, such as influences, noise sensitivity, and hypercontractivity and some basic results in the area.",
+  "course_description": "In this course, we will mostly be studying Fourier analysis of Boolean functions, which is a useful tool in theoretical computer science, combinatorics, and more. We will start with basic concepts such as influences, noise sensitivity, and hypercontractivity and some basic results in the area.",
   "department_numbers": [
     "18"
   ],
